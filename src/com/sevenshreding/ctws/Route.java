@@ -1,7 +1,7 @@
 package com.sevenshreding.ctws;
 
 public class Route {
-	private String Home = "Sempach, Hubelstrasse 10";
+	private String Home = "Sempach, Hubelstrasse%2010";
 	private String Work = "Emmenbruecke,Unter%20Hueslen";
 	private String Start, End = "";
 	private boolean reverseRoute = false;
